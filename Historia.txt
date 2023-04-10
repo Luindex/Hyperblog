@@ -1,6 +1,8 @@
 hola Soy luis carlos tengo 20 anos 
 y naci en colombia
 
+exp 1
+
 moster 1
 
 moster 2
