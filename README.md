@@ -12,3 +12,4 @@ Un blog Increible para el ampliar el conocimiento de **_GIT Y GITHUB_** en Platz
 - Solucion a errores muy frecuentes en Git.
 - Creado por Luis
 - Incluye ejemplos un git.pague
+- Disponible para todas las edades
